@@ -1,8 +1,5 @@
-1st feuture123
-test
-test2
-2nd Change
-3rd Chande
-1st Commit
+REBASE commit 1
 
-new branch
+Rebase commit 2
+
+Rebase commit 3
